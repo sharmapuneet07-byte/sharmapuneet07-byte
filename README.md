@@ -44,6 +44,18 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sharmapuneet07-byte&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmapuneet07-byte&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
 ## 🚀 What I'm Building
 
 ### 🤖 AI Career Navigator
