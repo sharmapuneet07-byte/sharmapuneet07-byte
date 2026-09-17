@@ -1,95 +1,69 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:312e81&height=180&section=header&text=Puneet%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
 # 👋 Hey, I'm Puneet Sharma
 
-### BCA Student • Aspiring Developer • Builder
+### BCA Student • Aspiring Developer • AI Enthusiast
 
-I'm a BCA student from **Jaipur, India**, exploring software development, AI, and problem solving.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Learning+by+building+%F0%9F%9A%80;Exploring+AI+%26+Web+Development+%F0%9F%A4%96;Python+%7C+DSA+%7C+Java+%7C+C%2B%2B;Turning+ideas+into+projects+%F0%9F%92%BB" />
 
-I’m currently focused on building a strong foundation instead of pretending I know everything — learning by coding, breaking things, fixing them, and building projects along the way. 🚀
-
----
-
-## 🧠 About Me
-
-- 🎓 BCA student at **IPS College Jaipur**
-- 💻 Exploring **Python, DSA, Java, C++, Web Development & DBMS**
-- 🤖 Interested in **AI and practical problem-solving**
-- 🌱 Currently improving my programming fundamentals and building real projects
-- 🛠️ I like turning ideas into things people can actually use
-- 📍 Jaipur, India
+</div>
 
 ---
 
-## 🧰 Tech I'm Working With
+## 🧑‍💻 About Me
 
-**Languages**
+🎓 BCA student at **IPS College Jaipur**
 
-`Python` `Java` `C++` `JavaScript`
+📍 Jaipur, India
 
-**Web & Database**
+💻 Currently exploring **Python, DSA, Java, C++, Web Development & DBMS**
 
-`HTML` `CSS` `JavaScript` `SQL` `MySQL` `DBMS`
+🤖 Interested in **AI and practical problem-solving**
 
-**Tools**
-
-`Git` `GitHub` `VS Code` `Canva` `Netlify`
-
-> Still learning, still experimenting — so this list will keep changing. 👀
+🚀 Learning by building projects and experimenting with new ideas.
 
 ---
 
-## 🚀 Featured Projects
+## 🧰 Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+
+### Web & Database
+
+<img src="https://skillicons.dev/icons?i=html,css,mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+
+---
+
+## 🚀 What I'm Building
 
 ### 🤖 AI Career Navigator
 
-An AI-powered career guidance platform designed to help students and career changers understand **possible career paths, required skills, learning roadmaps, real-world scenarios, and the impact of AI on different careers**.
+An AI-powered career guidance platform designed to help students understand career paths, required skills, learning roadmaps, real-world scenarios and the impact of AI on careers.
 
 **Status:** 🚧 Building
 
----
-
 ### 💎 Rayu by Tatiawala
 
-A frontend jewelry website built while learning and experimenting with **HTML, CSS and JavaScript**, with deployment through GitHub/Netlify.
+A frontend jewelry website built using **HTML, CSS and JavaScript** and deployed through GitHub/Netlify.
 
 **Status:** ✅ Built & Deployed
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Current Focus
 
 ```text
-Python ────────────────► Programming + DSA
-Java ──────────────────► Core concepts
-C++ ───────────────────► College + problem solving
-Web Development ──────► Frontend + projects
-DBMS / SQL ────────────► Strong fundamentals
-AI ────────────────────► Building practical projects
-```
-
----
-
-## 🎯 2026 → 2027 Goals
-
-- 🧩 Build stronger **DSA & programming fundamentals**
-- 🤖 Create more meaningful **AI + web projects**
-- 💻 Improve my GitHub and portfolio through real work
-- 🚀 Become **internship-ready**
-- 📈 Keep improving one project and one skill at a time
-
----
-
-## 💭 My Philosophy
-
-> **Don't try to look like a developer. Build until you become one.**
-
----
-
-## 🌐 Connect
-
-I'm always open to learning, collaborating on interesting projects, and meeting people who enjoy building things.
-
-⭐ If you find something useful here, feel free to explore the repositories.
-
----
-
-### ⚡ Keep coding. Keep building. Keep learning.
+🐍 Python + DSA
+☕ Java
+⚡ C++
+🌐 Web Development
+🗄️ DBMS + SQL
+🤖 AI Projects
