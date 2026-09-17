@@ -55,6 +55,16 @@
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sharmapuneet07-byte&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sharmapuneet07-byte&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
 ## 🚀 What I'm Building
 
 ### 🤖 AI Career Navigator
