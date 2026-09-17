@@ -30,17 +30,19 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
 
-### Web & Database
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
-
----
 
 ## 🚀 What I'm Building
 
