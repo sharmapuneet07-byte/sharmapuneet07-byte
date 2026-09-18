@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 BCA student at **IPS College Jaipur**
+🎓 BCA student 
 
 📍 Jaipur, India
 
