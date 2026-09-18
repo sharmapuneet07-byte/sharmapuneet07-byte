@@ -54,6 +54,17 @@
 
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sharmapuneet07-byte&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
+## 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharmapuneet07-byte/sharmapuneet07-byte/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharmapuneet07-byte/sharmapuneet07-byte/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sharmapuneet07-byte/sharmapuneet07-byte/output/github-snake.svg">
+</picture>
+
+</div> 
 
 ## 🚀 What I'm Building
 
